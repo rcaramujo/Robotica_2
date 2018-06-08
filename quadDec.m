@@ -1,0 +1,1 @@
+function [blk, S, center, G] = quadDec(I)
